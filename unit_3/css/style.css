@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica, sans-serif;
+    color: #555F61;
+    text-align: center;
+}
+
+.hero {
+    color: white;
+    background: url("madness-inc-image.jpg");
+    background-size: cover;
+    padding-top:200px;
+    padding-bottom:200px;
+    margin: 0px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 90px;
+   
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: normal;
+}
+h3{
+    font-size:20px;
+    font-weight:normal;
+    color: #231e1e;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
