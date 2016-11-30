@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,300,500');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+    font-family: 'Railway', sans-serif;
+    color: #030303;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.hero {
+    background: url("kelsey-hamon-being.jpg");
+    background-size: cover;
+    color: white;
+}
+#herotext {
+    color: white;
+    background: rgba(0,0,0,.5);
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+}
+
+#herotext #logo {
+    font-size: 100px;
+    font-weight: 100;
+}
+
+#herotext #slogan {
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+#button {
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    width: 10%;
+    position: relative;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.statement {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
