@@ -23,12 +23,41 @@ ul {
     padding-left: 0px;
 }
 .hero {
-    background: url("madness-inc-image.jpg");
+    background: url("kelsey-hamon-being.jpg");
     background-size: cover;
-}
-.hero div {
     color: white;
-    padding-top:200px;
-    padding-bottom:200px;
-    background: rgba(0,0,0,.25);
+}
+#herotext {
+    color: white;
+    background: rgba(0,0,0,.5);
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+}
+
+#herotext #logo {
+    font-size: 100px;
+}
+
+#herotext #slogan {
+    font-size: 30px;
+    font-weight: lighter;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+#button {
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    width: 10%;
+    position: relative;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.statement {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
 }
