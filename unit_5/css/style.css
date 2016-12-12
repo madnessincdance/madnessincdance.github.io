@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,300,500');
 * { margin:0; padding:0; box-sizing:border-box; }
 
-#wrapper {
-    width: 100%;
-}
+
 body {
     font-family: 'Railway', sans-serif;
     color: #030303;
@@ -54,6 +52,54 @@ ul {
     padding-bottom: 60px;
     font-size: 20px;
     font-weight: 100;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article.statement {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article.upcoming {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article.past {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article.about {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 
